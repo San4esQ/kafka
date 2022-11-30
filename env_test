@@ -1,0 +1,5 @@
+POSTGRES_USER=san4es
+POSTGRES_PASSWORD=san4es777888
+POSTGRES_DB=kafka
+
+URL_DB=postgresql+psycopg2://san4es:san4es777888@postgres/kafka
